@@ -1,1 +1,1 @@
-alert('test <----------> test')
+alert('test2 <----------> test2')
